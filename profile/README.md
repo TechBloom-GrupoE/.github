@@ -9,7 +9,7 @@
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-A **TechBloom** é uma empresa fictícia criada como parte do **Projeto Integrador da Turma Java 83** do *Bootcamp de Desenvolvimento Java Fullstack* da **Generation Brasil**.  
+A **TechBloom** é uma empresa fictícia criada como parte do **Projeto Integrador da Turma Java 83 - Grupo E** do *Bootcamp de Desenvolvimento Fullstack (Java React)* da **Generation Brasil**.  
 Nossa missão é **transformar ideias em soluções digitais**, com foco em experiências práticas, acessíveis e centradas no usuário.
 
 ---
