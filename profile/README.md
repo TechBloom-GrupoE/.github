@@ -23,11 +23,11 @@ Cada projeto possui seu próprio repositório com código, documentação e inst
 1. 🍽️ **Tá Na Mesa** — Aplicativo de delivery de comida (Projeto 1)  
    🔗 Repositório: https://github.com/TechBloom-GrupoE/TanaMesa-backend
 
-2. 💡 **Projeto 2** — *(em desenvolvimento)*  
-   🔗 Repositório: `github.com/TechBloom-GrupoE/projeto-2`  
+2. 💡 **Smart Rh** — Aplicativo de gestão de Rh (Projeto 2)
+   🔗 Repositório: `https://github.com/TechBloom-GrupoE/Smart-Rh-Backend`  
 
-3. 🔧 **Projeto 3** — *(em desenvolvimento)*  
-   🔗 Repositório: `github.com/TechBloom-GrupoE/projeto-3`
+4. 🔧 **Mind Move** — Aplicativo fitness (Projeto 3)
+   🔗 Repositório: `https://github.com/TechBloom-GrupoE/MindMove_backend`
 
 ---
 
