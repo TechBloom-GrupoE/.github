@@ -24,10 +24,10 @@ Cada projeto possui seu próprio repositório com código, documentação e inst
    🔗 Repositório: https://github.com/TechBloom-GrupoE/TanaMesa-backend
 
 2. 💡 **Smart Rh** — Aplicativo de gestão de Rh (Projeto 2)
-   🔗 Repositório: `[(https://github.com/TechBloom-GrupoE/Smart-Rh-Backend)](https://github.com/TechBloom-GrupoE/Smart-Rh-BackendURL)`  
+   🔗 Repositório: https://github.com/TechBloom-GrupoE/Smart-Rh-Backend 
 
 4. 🔧 **Mind Move** — Aplicativo fitness (Projeto 3)
-    🔗 Repositório: `[https://github.com/TechBloom-GrupoE/MindMove_backend](https://github.com/TechBloom-GrupoE/MindMove_backend)`
+    🔗 Repositório: https://github.com/TechBloom-GrupoE/MindMove_backend
 
 ---
 
